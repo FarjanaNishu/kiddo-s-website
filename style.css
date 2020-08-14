@@ -1,0 +1,36 @@
+.cat1{
+    background-color: palevioletred;
+}
+.cat2{
+    background-color: green;
+}
+.cat3{
+    background-color: yellowgreen;
+}
+.cat1 .cat2 .cat3{
+    padding: 10px 30px;
+}
+.button{
+    border-radius: 100px;
+    background-color: thistle;
+}
+.h1{
+    color: midnightblue;
+    font-style: oblique;
+}
+.card{
+    border: none;
+    box-shadow: 4px 4px 8px lightslategray;
+}
+.Start-here-button{
+    background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
+    color: lightyellow;
+    border: none;
+    border-radius: 20px;
+    padding: 15px, 45px;
+    cursor: pointer;
+}
+#subscribe{
+    height: 300px;
+    color: mistyrose;
+}
